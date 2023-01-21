@@ -1,0 +1,31 @@
+.recipe_container {
+  width: 80%;
+  margin: 24px auto;
+  line-height: 1.8;
+}
+
+.recipe_container h1,
+.recipe_container h3 {
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.about {
+  margin-top: 24px;
+  font-weight: 500;
+}
+.howto {
+  margin-top: 24px;
+  font-weight: 500;
+}
+
+.btn {
+  color: white;
+  background-color: rgb(12, 79, 79);
+  padding: 4px 18px;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  margin: 0;
+  border-radius: 5px;
+}

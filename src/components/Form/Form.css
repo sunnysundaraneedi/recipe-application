@@ -1,0 +1,20 @@
+.search_form {
+  margin-top: 18px;
+  display: flex;
+}
+
+.search_form input {
+  padding: 4px 4px;
+  font-size: 1rem;
+}
+
+.search_form button {
+  color: white;
+  background-color: rgb(12, 79, 79);
+  padding: 4px 18px;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  margin: 0 12px;
+  border-radius: 5px;
+}
